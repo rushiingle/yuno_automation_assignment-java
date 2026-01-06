@@ -1,2 +1,38 @@
-# yuno_automation_assignment-java
-Java-based API automation framework built using Cucumber (BDD) and Rest Assured to validate Yuno payment orchestration workflows including Purchase, Authorization, Capture, Refund, Cancel, and Verify APIs. Created as part of Yuno QA Automation Integrations Engineer hiring assignment.
+# \# Yuno Automation Engineer Assignment (Java)
+
+# 
+
+# \## Tech Stack
+
+# \- Java
+
+# \- Cucumber
+
+# \- Rest Assured
+
+# \- Maven
+
+# 
+
+# \## Setup
+
+# mvn clean install
+
+# 
+
+# \## Execution
+
+# mvn test
+
+# 
+
+# \## Notes
+
+# \- Sandbox APIs
+
+# \- Dummy card numbers
+
+# \- Keys injected via config
+
+# 
+
